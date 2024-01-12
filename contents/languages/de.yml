@@ -295,7 +295,7 @@ message:
     list: "Liste aller Addons:"
     reloadAll: "Lade Addons neu ...."
     reloadedAll: "Alle Addons neu geladen!"
-  credits:
+  team:
     default: "Triff unser Team!"
     easterEgg: "Meet the Spy!"
   optout:
@@ -640,7 +640,7 @@ command:
     waifu: "Möchten Sie einige Waifus oder Husbandos sehen?"
     addon: "Nur für Entwickler gedacht, um neue Addons neu zu laden oder zu laden."
     test: "Nur ein Test-Befehl."
-    credits: "Sehe das wunderbare Team hinter KellerBot!"
+    team: "Sehe das wunderbare Team hinter KellerBot!"
     help: "Zeigt eine Liste aller Befehle an!"
     info: "Zeigt benutzerspezifische Informationen."
     invite: "Erhalte einen Einladungs-Link für KellerBot!"
